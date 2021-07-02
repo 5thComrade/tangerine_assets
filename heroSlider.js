@@ -6,7 +6,8 @@ const heroSlider = [
         dimension: "30\" x 58\"",
         description: "Oil on Canvas",
         year: 1992,
-        folder: "hero-slider-images"
+        folder: "hero-slider-images",
+        fileName: "image_1.jpg"
     },
     {
         id: 002,
@@ -15,7 +16,8 @@ const heroSlider = [
         dimension: "30\" x 58\"",
         description: "Oil on Canvas",
         year: 2016,
-        folder: "hero-slider-images"
+        folder: "hero-slider-images",
+        fileName: "image_2.jpg"
     },
     {
         id: 003,
@@ -24,7 +26,8 @@ const heroSlider = [
         dimension: "30\" x 58\"",
         description: "Oil on Canvas",
         year: 2001,
-        folder: "hero-slider-images"
+        folder: "hero-slider-images",
+        fileName: "image_3.jfif"
     },
 ]
 
